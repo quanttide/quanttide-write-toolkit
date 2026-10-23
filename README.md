@@ -1,6 +1,6 @@
 # quanttide-write-toolkit
 
-量潮叙事工程工具箱 — 叙事工程领域的共享库与工具集（独立仓库，挂载于 quanttide-write/packages）。
+量潮叙事工程标准库 — 叙事工程领域的共享库与标准库（独立仓库，挂载于 quanttide-write/packages）。
 
 ## 概述
 
